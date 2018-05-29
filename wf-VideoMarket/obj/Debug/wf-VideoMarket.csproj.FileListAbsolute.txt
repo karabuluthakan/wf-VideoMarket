@@ -1,0 +1,16 @@
+C:\Users\ERP-8.Wissen-PC\Desktop\ERP-8\ADO.NET\wf-VideoMarket\wf-VideoMarket\bin\Debug\wf-VideoMarket.exe.config
+C:\Users\ERP-8.Wissen-PC\Desktop\ERP-8\ADO.NET\wf-VideoMarket\wf-VideoMarket\bin\Debug\wf-VideoMarket.exe
+C:\Users\ERP-8.Wissen-PC\Desktop\ERP-8\ADO.NET\wf-VideoMarket\wf-VideoMarket\bin\Debug\wf-VideoMarket.pdb
+C:\Users\ERP-8.Wissen-PC\Desktop\ERP-8\ADO.NET\wf-VideoMarket\wf-VideoMarket\obj\Debug\wf-VideoMarket.csprojResolveAssemblyReference.cache
+C:\Users\ERP-8.Wissen-PC\Desktop\ERP-8\ADO.NET\wf-VideoMarket\wf-VideoMarket\obj\Debug\wf_VideoMarket.frmAnasayfa.resources
+C:\Users\ERP-8.Wissen-PC\Desktop\ERP-8\ADO.NET\wf-VideoMarket\wf-VideoMarket\obj\Debug\wf_VideoMarket.Properties.Resources.resources
+C:\Users\ERP-8.Wissen-PC\Desktop\ERP-8\ADO.NET\wf-VideoMarket\wf-VideoMarket\obj\Debug\wf-VideoMarket.csproj.GenerateResource.Cache
+C:\Users\ERP-8.Wissen-PC\Desktop\ERP-8\ADO.NET\wf-VideoMarket\wf-VideoMarket\obj\Debug\wf-VideoMarket.exe
+C:\Users\ERP-8.Wissen-PC\Desktop\ERP-8\ADO.NET\wf-VideoMarket\wf-VideoMarket\obj\Debug\wf-VideoMarket.pdb
+C:\Users\ERP-8.Wissen-PC\Desktop\ERP-8\ADO.NET\wf-VideoMarket\wf-VideoMarket\obj\Debug\wf_VideoMarket.frmFilmTurleri.resources
+C:\Users\ERP-8.Wissen-PC\Desktop\ERP-8\ADO.NET\wf-VideoMarket\wf-VideoMarket\obj\Debug\wf_VideoMarket.frmMusteriler.resources
+C:\Users\ERP-8.Wissen-PC\Desktop\ERP-8\ADO.NET\wf-VideoMarket\wf-VideoMarket\obj\Debug\wf_VideoMarket.frmFilmler.resources
+C:\Users\ERP-8.Wissen-PC\Desktop\ERP-8\ADO.NET\wf-VideoMarket\wf-VideoMarket\obj\Debug\wf_VideoMarket.frmMusteriSorgulama.resources
+C:\Users\pc\Desktop\wf-VideoMarket\wf-VideoMarket\bin\Debug\wf-VideoMarket.exe.config
+C:\Users\pc\Desktop\wf-VideoMarket\wf-VideoMarket\obj\Debug\wf-VideoMarket.exe
+C:\Users\pc\Desktop\wf-VideoMarket\wf-VideoMarket\obj\Debug\wf-VideoMarket.pdb
